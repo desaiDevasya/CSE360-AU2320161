@@ -1,0 +1,5 @@
+Following up on the last lecture about graphics theory and Java frameworks, today was spent setting up the environment on my laptop. I used Java Swing to open a basic window and draw a red square using g.fillRect. It took a few tries because I kept getting package errors, but I figured out that files with package com.graphics.app; need to be run from the src/main/java directory using their full name.
+
+I also configured Maven 3.9.6 on my system so the project folder builds properly with the required structure. Once the code compiled and ran without issues, I pushed the updated files to my GitHub repository.
+
+The setup process was a bit annoying due to Java's path rules, but everything is working now and ready for the upcoming assignments.
