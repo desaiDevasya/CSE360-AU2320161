@@ -1,5 +1,39 @@
-Following up on the last lecture about graphics theory and Java frameworks, today was spent setting up the environment on my laptop. I used Java Swing to open a basic window and draw a red square using g.fillRect. It took a few tries because I kept getting package errors, but I figured out that files with package com.graphics.app; need to be run from the src/main/java directory using their full name.
+# Lecture Reflection
 
-I also configured Maven 3.9.6 on my system so the project folder builds properly with the required structure. Once the code compiled and ran without issues, I pushed the updated files to my GitHub repository.
+**Lecture Date: 27/08/2026**
 
-The setup process was a bit annoying due to Java's path rules, but everything is working now and ready for the upcoming assignments.
+Following up on the previous lecture about graphics theory and Java frameworks, today's class was mainly focused on setting up the development environment on my laptop and applying some of the concepts we had learned earlier.
+
+## Java Swing and Drawing
+
+- We used **Java Swing** to create a basic graphical window.
+- We learned how to draw a simple square using the `g.fillRect()` method.
+- We also used a red color for the square, which helped me understand how basic shapes can be created and displayed using Java.
+- During the setup, I faced several package-related errors.
+- I learned that files containing `package com.graphics.app;` need to follow the correct package structure and be run using their full package name.
+
+This helped me understand that Java packages are not just labels in the code but are also connected to how files are organised and executed.
+
+## Maven Setup
+
+We also configured **Maven 3.9.6** on our systems so that the project could build properly using the required Maven structure.
+
+- We made sure the project followed the proper Maven directory structure.
+- We configured Maven so that the project could compile and run correctly.
+- After fixing the package and path issues, I was able to successfully build and run the program.
+
+Although the setup took a few attempts, it gave me a better understanding of how a Java project is organised.
+
+## GitHub and Project Management
+
+Once everything was working correctly, I pushed the updated project files to my **GitHub repository**.
+
+This continued the Git workflow we had started in the earlier lectures. It was useful to go through the complete process of setting up the project, writing and testing the code, fixing errors and finally pushing the working project to GitHub.
+
+## Reflection
+
+The most useful part of today's lecture was getting the development environment working properly on my own laptop. The package and path errors were frustrating at first, but solving them helped me understand Java's project structure better instead of simply following the instructions.
+
+Drawing a simple square also helped connect the theory from the previous lectures with actual implementation. We had previously discussed shapes, coordinates and Java graphics, and now I could see how these concepts are used in a working program.
+
+Overall, today's lecture was more practical and focused on preparing the environment for upcoming assignments. After getting Java, Maven, Swing and GitHub working together, I feel more prepared to work on the more complex graphics programs that will come later in the course.
