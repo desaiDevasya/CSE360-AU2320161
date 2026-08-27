@@ -1,5 +1,3 @@
-# Lecture Reflection
-
 **Lecture Date: 27/08/2026**
 
 Following up on the previous lecture about graphics theory and Java frameworks, today's class was mainly focused on setting up the development environment on my laptop and applying some of the concepts we had learned earlier.
